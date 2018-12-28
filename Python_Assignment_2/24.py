@@ -1,0 +1,6 @@
+print(r"C:\Windows\new")
+print("Escape single quote","I don't know")
+print("'Hello'")
+print('"Hello"')
+print('"Isn\'t," they said.')
+print("Hello \n Hi")

@@ -1,0 +1,8 @@
+Hi
+this is Rahul
+How are you
+Thanks and Regards
+Treasure
+Treasure
+lines added using f.writeThis is the lines to be appended
+lines added using f.write
